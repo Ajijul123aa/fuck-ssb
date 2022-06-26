@@ -25,8 +25,8 @@
 
 rm -rf Fuck_SSB
 
-git clone https://github.com/MrK4US4R/Fuck_SSB
+git clone https://github.com/Ajijul123aa/fuck-ssb
 
-cd Fuck_SSB
+cd fuck-ssb
 
 python s.py
