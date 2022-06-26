@@ -23,7 +23,7 @@
 
  pip install bs4
 
-rm -rf Fuck_SSB
+rm -rf fuck-ssb
 
 git clone https://github.com/Ajijul123aa/fuck-ssb
 
